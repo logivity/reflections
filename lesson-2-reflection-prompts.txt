@@ -11,13 +11,26 @@ that you want to commit separately.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Staging area can be used to custom select files that you want to change per loical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When working at two differnet features at same times or found mutliple bugs etc.
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams are helful in visualizing the flow of commits, and process flow of contributions
+made to the project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging branches that have completed their task can be helful in building one 
+commit that has all the features together. Flow diargram helps in undestanding where the branches should be merged.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging is helpful in reducing redundant workload but manual merges are
+uselful in resolving conflicts genetrated through automatic merging.
